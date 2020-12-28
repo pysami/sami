@@ -8,3 +8,4 @@
 "
 § get clone https://github.com/pysami/sami.git
 "
+<img src="Capture.PNG">
