@@ -4,3 +4,7 @@
 "
 § apt update && upgrade .py
 "
+
+"
+§ get clone https://github.com/pysami/sami.git
+"
