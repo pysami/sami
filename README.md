@@ -2,5 +2,5 @@
 ## sami test2
 
 "
-§ pkg update && upgrade .py
+§ apt update && upgrade .py
 "
